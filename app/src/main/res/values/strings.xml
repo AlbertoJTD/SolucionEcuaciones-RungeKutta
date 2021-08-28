@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RungeKutta</string>
+    <string name="titulo">Rosuloción de Ecuaciones Diferenciales mediante Runge Kutta</string>
+    <string name="f">f [x, y]:= </string>
+    <string name="x">Valor x0= </string>
+    <string name="y">Valor y0= </string>
+    <string name="h">h= </string>
+    <string name="n">n= </string>
+    <string name="orden2">2da Orden</string>
+    <string name="orden4">4ta Orden</string>
+    <string name="empty"> </string>
+    <string name="salir">Regresar</string>
+    <string name="resul">Resultados</string>
+</resources>
